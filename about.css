@@ -66,8 +66,8 @@ body
     z-index: 999;
     --bs-navbar-active-color:#ac2424;
 }
-.navbar-brand {
-    font-weight: 700;
+.navbar-brand img{
+    vertical-align: sub;
 }
 .nav-link {
     
@@ -204,7 +204,7 @@ margin-right: 5px;
 }
 .logo
 {
-    width: 100px;
+    width: 150px;
 }
 .connected
 {
